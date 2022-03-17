@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T00:37:54.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SlDSK5XMgiySkgLYq7vH" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T00:41:20.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="cfhnwovX1M42bxhPh_0b" version="17.1.3" type="github">
   <diagram id="9K4c9n0JbCCM8tx41YKC" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="210" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bQcjS5CROjnCH39BPfgD-2" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bQcjS5CROjnCH39BPfgD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bQcjS5CROjnCH39BPfgD-3">
           <mxGeometry relative="1" as="geometry">
@@ -45,8 +45,8 @@
         <mxCell id="bQcjS5CROjnCH39BPfgD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bQcjS5CROjnCH39BPfgD-13" target="bQcjS5CROjnCH39BPfgD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bQcjS5CROjnCH39BPfgD-13" value="O maior é N2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="120" height="80" as="geometry" />
+        <mxCell id="bQcjS5CROjnCH39BPfgD-13" value="N2 é&amp;nbsp; maior ou igual a N1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
